@@ -1,0 +1,7 @@
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb

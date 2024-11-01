@@ -1,0 +1,7 @@
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.exe
+C:\Users\gamze\OneDrive\Masaüstü\C#\CSharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.pdb
